@@ -1,0 +1,13 @@
+offre_id,entreprise_id,titre_poste,description,salaire_min,salaire_max,niveau_experience,competences_requises,date_publication,date_limite,type_contrat,statut
+1,1,Développeur Python,Cherchons dev Python expérimenté,25000,35000,Confirmé,Python;Django;SQL,2025-10-01,2025-10-31,CDI,Ouvert
+2,1,Junior Developer,Jeune diplômé bienvenu,15000,20000,Débutant,Python;HTML;CSS,2025-10-02,2025-10-15,CDI,Ouvert
+3,2,Analyste Financier,Analyse de données financières,30000,40000,Expert,Excel;SQL;Power BI,2025-09-15,2025-10-20,CDI,Ouvert
+4,2,Assistant Comptable,Support comptable,12000,16000,Débutant,Excel;Comptabilité,2025-10-05,2025-10-25,CDD,Ouvert
+5,3,Infirmier Spécialisé,Unité de soins,18000,24000,Confirmé,Nursing;Diagnostique,2025-09-20,2025-10-15,CDI,Fermé
+6,3,Aide-Soignant,Support médical,10000,13000,Débutant,Premiers secours,2025-10-03,2025-10-31,CDI,Ouvert
+7,4,Chef de Rayon,Gestion rayon retail,16000,22000,Confirmé,Management;Retail,2025-10-01,2025-10-20,CDI,Ouvert
+8,4,Vendeur,Accueil clients,8000,12000,Débutant,Vente;Communication,2025-10-02,2025-11-05,CDI,Pourvu
+9,5,Responsable Pédagogique,Gestion cursus,20000,28000,Confirmé,Pédagogie;Gestion,2025-10-01,2025-10-31,CDI,Ouvert
+10,5,Formateur IT,Cours informatique,18000,25000,Confirmé,IT;Pédagogie,2025-10-04,2025-10-31,CDD,Ouvert
+11,1,Data Analyst,Analyse de données,28000,38000,Expert,Python;SQL;Tableau,2025-09-25,2025-10-20,CDI,Ouvert
+12,2,Stagiaire Finance,Stage 6 mois,6000,8000,Débutant,Excel;Bases finance,2025-10-10,2025-11-10,Stage,Ouvert
