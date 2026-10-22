@@ -1,0 +1,16 @@
+candidat_id,nom_candidat,email,telephone,localisation,date_naissance,niveau_etudes,annees_experience,specialite,competences,cv_telecharge,statut_candidat,date_inscription
+1,Ahmed Bennani,ahmed.b@email.com,0612345678,Casablanca,1992-05-15,Master,5,Développement web,Python;Django;JavaScript,2025-09-20,Actif,2025-01-10
+2,Fatima Zahra Alaoui,fatima.z@email.com,0698765432,Fes,1995-08-22,Licence,3,Data Science,Python;SQL;Tableau,2025-09-18,Actif,2025-02-15
+3,Mohammed Karim,m.karim@email.com,0645670890,Rabat,1998-11-30,Licence,1,Infirmerie,Nursing;Premiers secours,2025-09-25,Actif,2025-03-01
+4,Laila Saada,l.saada@email.com,0632145678,Marrakech,1990-03-10,Master,8,Finance,Excel;Power BI;SQL,2025-09-22,Actif,2025-04-12
+5,Youssef Tahir,y.tahir@email.com,0656789012,Agadir,1999-07-05,Bac,0,Vente-Commerce,Vente;Communication,2025-09-28,Actif,2025-05-20
+6,Nadia Hassan,nadia.h@email.com,0634567890,Casablanca,1993-02-18,Master,6,Gestion RH,Management;Pédagogie,2025-09-20,Actif,2025-06-10
+7,Ibrahim Moussaoui,ibrahim.m@email.com,0667890123,Rabat,1996-09-12,Licence,2,Informatique,Python;Java;HTML,2025-09-19,Actif,2025-07-05
+8,Salima Bouazza,salima.b@email.com,0623456789,Fes,1994-12-25,Licence,4,Infirmerie,Nursing;Diagnostique,2025-09-24,Actif,2025-08-15
+9,Khalid Amrani,khalid.a@email.com,0645678901,Marrakech,1997-06-08,Licence,2,Comptabilité,Excel;Comptabilité,2025-09-21,Inactif,2025-09-01
+10,Zainab Bennani,zainab.b@email.com,0612398765,Casablanca,1992-04-30,Master,7,Développement,Python;SQL;JavaScript,2025-09-26,Actif,2025-09-10
+11,Marwan Leblanc,marwan.l@email.com,0656712345,Rabat,1995-01-14,Licence,3,IT,Java;Python;SQL,2025-09-20,Actif,2025-09-15
+12,Aisha Farraj,aisha.f@email.com,0634598765,Casablanca,1991-10-22,Master,9,Pédagogie,Pédagogie;IT;Gestion,2025-09-25,Actif,2025-09-20
+13,Tariq El Fassi,tariq.ef@email.com,0667543210,Fes,1998-08-17,Licence,1,Santé,Premiers secours;Nursing,2025-09-23,Actif,2025-09-22
+14,Sara Belkadi,sara.b@email.com,0623784590,Marrakech,1993-05-11,Licence,4,Retail,Management;Vente,2025-09-27,Bloqué,2025-09-25
+15,Rashid Mediane,rashid.m@email.com,0645932187,Agadir,1994-11-09,Licence,5,Développement,Python;Django,2025-09-22,Actif,2025-09-28
