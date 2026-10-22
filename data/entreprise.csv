@@ -1,0 +1,6 @@
+entreprise_id,nom_entreprise,secteur,localisation,nombre_employes,date_creation,site_web
+1,TechVision Maroc,Tech,Casablanca,150,2015-03-10,www.techvision.ma
+2,FinanceHub,Finance,Rabat,85,2018-05-20,www.financehub.ma
+3,MediCare Plus,Santé,Fes,200,2010-01-15,www.medicareplus.ma
+4,RetailMax,Commerce,Marrakech,320,2005-06-30,www.retailmax.ma
+5,EduTech Solutions,Éducation,Casablanca,50,2020-09-08,www.edutech.ma
